@@ -22,53 +22,6 @@
 
 - Monica Luntraru Mandalina
 
-2014
-
-# Contents
-
-[brief history of the mutual fund industry
-[3](#brief-history-of-the-mutual-fund-industry)](#brief-history-of-the-mutual-fund-industry)
-
-[In the Beginning [3](#in-the-beginning)](#in-the-beginning)
-
-[The Arrival of the Modern Fund
-[3](#the-arrival-of-the-modern-fund)](#the-arrival-of-the-modern-fund)
-
-[The legal environment before the 1960\`s and the Expansion of Mutual
-Funds
-[3](#the-legal-environment-before-the-1960s-and-the-expansion-of-mutual-funds)](#the-legal-environment-before-the-1960s-and-the-expansion-of-mutual-funds)
-
-[“The brains behind the operation”
-[4](#the-brains-behind-the-operation)](#the-brains-behind-the-operation)
-
-[The story of Bernard Cornfeld
-[4](#the-story-of-bernard-cornfeld)](#the-story-of-bernard-cornfeld)
-
-[The story of Robert Vesco
-[5](#the-story-of-robert-vesco)](#the-story-of-robert-vesco)
-
-[“0ne of the most lucrative confidence games of that era”
-[5](#ne-of-the-most-lucrative-confidence-games-of-that-era)](#ne-of-the-most-lucrative-confidence-games-of-that-era)
-
-[The I.O.S. Scandal [5](#the-i.o.s.-scandal)](#the-i.o.s.-scandal)
-
-[I.O.S. Ltd. -­‐ Going Public
-[6](#i.o.s.-ltd.---going-public)](#i.o.s.-ltd.---going-public)
-
-[The fall of I.O.S. [7](#the-fall-of-i.o.s.)](#the-fall-of-i.o.s.)
-
-[Robert Vesco – World’s most wanted fugitive
-[8](#robert-vesco-worlds-most-wanted-fugitive)](#robert-vesco-worlds-most-wanted-fugitive)
-
-[Bernie Cornfeld – Life after I.O.S.
-[8](#bernie-cornfeld-life-after-i.o.s.)](#bernie-cornfeld-life-after-i.o.s.)
-
-[Conclusions: How the IOS scandal influenced the regulatory system
-thereafter
-[8](#conclusions-how-the-ios-scandal-influenced-the-regulatory-system-thereafter)](#conclusions-how-the-ios-scandal-influenced-the-regulatory-system-thereafter)
-
-[References: [10](#references)](#references)
-
 # brief history of the mutual fund industry
 
 Mutual funds have been spinning around the idea of pooling assets
