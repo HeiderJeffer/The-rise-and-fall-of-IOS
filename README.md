@@ -1,5 +1,10 @@
 # <span class="smallcaps">UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
 
+ <body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/The-rise-and-fall-of-IOS/" alt = "Visitors-Counter"/>
+</body>
+
+
 # FACULTY OF COMPUTER SCIENCE
 
 # Master in Artificial Intelligence
