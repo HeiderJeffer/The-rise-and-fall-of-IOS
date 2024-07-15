@@ -27,6 +27,10 @@
 
 - Monica Luntraru Mandalina
 
+#### Instructor: Mehdi Jazayeri
+
+#### Assistant: Sasa Nesic
+
 # brief history of the mutual fund industry
 
 Mutual funds have been spinning around the idea of pooling assets
