@@ -1,17 +1,13 @@
-# <span class="smallcaps">ETH and UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
-
  <body>
 <img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/The-rise-and-fall-of-IOS/" alt = "Visitors-Counter"/>
 </body>
 
 
-# FACULTY OF COMPUTER SCIENCE
+#### <span class="smallcaps">ETH and UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
+#### FACULTY OF COMPUTER SCIENCE - Master in Artificial Intelligence
 
-# Master in Artificial Intelligence
-
-# THE RISE AND FALL OF I.O.S. 
-
-# BERNARD CORNFELD AND ROBERT VESCO \[2014\]
+#### THE RISE AND FALL OF I.O.S. 
+#### BERNARD CORNFELD AND ROBERT VESCO \[2014\]
 
 - By:
 
@@ -31,7 +27,7 @@
 
 #### Assistant: Sasa Nesic
 
-# brief history of the mutual fund industry
+#### brief history of the mutual fund industry
 
 Mutual funds have been spinning around the idea of pooling assets
 together for investment purposes for a long time and from their
@@ -42,7 +38,7 @@ However, they became the main attraction of the public just in the 1980s
 and 1990s when mutual fund investment hit record highs and investors
 were very attracted by incredible returns.
 
-## In the Beginning
+#### In the Beginning
 
 The origins of the investment funds are uncertain for historians. One
 alternative is that the close-­‐end investment companies launched in the
@@ -65,7 +61,7 @@ modern mutual fund was the creation of the Alexander Fund in
 Philadelphia in 1907. This fund allowed investors to make withdrawals on
 demand and featured semi-­‐annual issues.
 
-## The Arrival of the Modern Fund
+#### The Arrival of the Modern Fund
 
 The modern mutual fund arrived in 1924 and its entrance was made through
 the creation of the Massachusetts Investors' Trust in Boston. The fund
@@ -80,7 +76,7 @@ the launch of Wellington Fund. This was the first mutual fund to include
 stocks and bonds, as opposed to direct merchant bank style of
 investments in business and trade.
 
-## The legal environment before the 1960\`s and the Expansion of Mutual Funds
+#### The legal environment before the 1960\`s and the Expansion of Mutual Funds
 
 In 1929, 19 open-­‐ended mutual funds were competing with nearly 700
 closed-­‐end funds. This dynamic changed when the stock market crashed in
@@ -211,9 +207,9 @@ since the beginning he was continuously switching his location in order
 to escape strict regulation and to create a chain of relations difficult
 to track.
 
-# “The brains behind the operation”
+#### “The brains behind the operation”
 
-# The story of Bernard Cornfeld
+#### The story of Bernard Cornfeld
 
 Bernard Cornfeld was born in 1927 in Istanbul where his father, Leon, a
 Romanian actor, manager and film producer had his offices. His career
@@ -273,7 +269,7 @@ from American exiles, that needed a source of income and inspired them
 with the fallowing question: ’Do you sincerely want to be rich?’,
 convincing them that if the answer is ‘yes’ than he has the solution.
 
-# The story of Robert Vesco
+#### The story of Robert Vesco
 
 Robert Vesco was born in December 1935. The son of a Detroit car
 industry worker, his ambition from his earliest years was to become
@@ -291,9 +287,9 @@ Leveraging his ICC investment to the top, Vesco became a presence on
 Wall Street and a seriously wealthy man. But his ambitions were not
 confined to the United States.
 
-# “0ne of the most lucrative confidence games of that era” 
+#### “0ne of the most lucrative confidence games of that era” 
 
-# The I.O.S. Scandal
+#### The I.O.S. Scandal
 
 By mid twentieth century, the mutual fund industry was beginning to
 boom, based on the increasing confidence of the investors after the
@@ -400,7 +396,7 @@ investor and even employees were eager to participate. Cornfeld's I.O.S.
 had a stock-­‐option plan in which employees at different levels could
 participate.
 
-# I.O.S. Ltd. -­‐ Going Public
+#### I.O.S. Ltd. -­‐ Going Public
 
 The securities transactions giving rise to this scandal go back to 1969.
 The securities were the common stock of I.O.S., Ltd., an international
@@ -509,7 +505,7 @@ weeks later the shares apparently were virtually unsalable.
 This ended up being a great loss for the purchaser, that was about to
 become even greater when IOS passed into the hands of Robert Vesco.
 
-# The fall of I.O.S.
+#### The fall of I.O.S.
 
 During 1970 though, an accountant working for I.O.S. found his way
 through the complex labyrinth of interlocked companies and their
@@ -537,7 +533,7 @@ million and gained control of an estimated \$400 million in funds. As it
 will turn out later, this was the peak of his career with everything
 starting to go down soon after.
 
-# Robert Vesco – World’s most wanted fugitive
+#### Robert Vesco – World’s most wanted fugitive
 
 Just a month later, SEC ‘the stock market watchdog agency’ started to
 make investigations into ICC and although the process of obtaining
@@ -581,7 +577,7 @@ have died of lung cancer in November 2007 and was buried in a cemetery
 in Havana but in a tomb with another family’s name. No official
 announcement was ever made.
 
-# Bernie Cornfeld – Life after I.O.S.
+#### Bernie Cornfeld – Life after I.O.S.
 
 He was charged with fraud by the Swiss authorities when 300 employees of
 IOS complained that he and his co-­‐founders pocketed part of the
@@ -613,7 +609,7 @@ Los Angeles. His marriage ended in divorce, and he is survived by a
 daughter. Bernard Cornfeld suffered a stroke and died of a cerebral
 aneurysm on February 27, 1995 in London, England.
 
-# Conclusions: How the IOS scandal influenced the regulatory system thereafter
+#### Conclusions: How the IOS scandal influenced the regulatory system thereafter
 
 Fallowing the abuses of the off-­‐shore investment companies in the
 1960’s and the collapse of the IOS, the Securities and Exchange
@@ -688,7 +684,7 @@ but if they could be identified in time by the joint efforts of
 investors and regulatory authorities, the losses will be lower for both
 the financial markets and the investors.
 
-# References:
+#### References:
 
 1.  <http://www.lowtax.net/lowtax/html/jswolaw.html#invest>
 
