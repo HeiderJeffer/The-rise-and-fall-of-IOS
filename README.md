@@ -3,10 +3,10 @@
 </body>
 
 
+#### THE RISE AND FALL OF I.O.S. 
 #### <span class="smallcaps">ETH and UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
 #### FACULTY OF COMPUTER SCIENCE - Master in Artificial Intelligence
 
-#### THE RISE AND FALL OF I.O.S. 
 #### BERNARD CORNFELD AND ROBERT VESCO \[2014\]
 
 - By:
